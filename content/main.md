@@ -4,7 +4,7 @@ hero:
     icon: briefcase-outline
     link: '/#portofolio'
     text: My work
-  heading: 'I''m Paco Cu, and I create'
+  heading: "I'm János, and I create"
   image: /img/hero.jpeg
   secondButton:
     icon: whatsapp
@@ -28,24 +28,19 @@ about:
   heading: Who am I?
   image: /img/about.jpeg
   text: >
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vel dapibus
-    mi, sit amet consequat leo. Integer non dolor non elit sodales consequat.
-    Integer tempor sollicitudin massa, vel sollicitudin ante dictum eu.
+    I am a front-endweb developer
 features:
   - icon: monitor-screenshot
     text: >
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vel dapibus
-      mi.
+      Facilitate user experience
     title: UI/UX
   - icon: draw
     text: >
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vel dapibus
-      mi.
+      Creates custom logos
     title: Logo Design
   - icon: xml
     text: >
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vel dapibus
-      mi.
+      Create amazing websites
     title: Web Development
 portfolio:
   projects:
@@ -77,4 +72,3 @@ portfolio:
 footer:
   text: © John Doe
 ---
-
